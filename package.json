@@ -1,0 +1,25 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/myaff-x/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/myaff-x/frontend-project-44/actions)",
+  "main": "index.js",
+  "bin": {
+    "frontend-project-44": "bin/brain-games.js",
+    "brain-games": "bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myaff-x/frontend-project-44.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myaff-x/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/myaff-x/frontend-project-44#readme",
+  "type": "module"
+}

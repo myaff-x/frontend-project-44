@@ -27,7 +27,7 @@ export const runPrimeGame = () => {
         console.log(`Congratulations, ${name}`);
     }
     else {
-        console.log(`${userAnswer} is wrong answer ;(. Correct answer was ${correctAnswer}`);
+        console.log(`${userAnswer} is wrong answer ;(. Correct answer was no`);
         console.log(`Let's try again, ${name}`);
     }
 } 
